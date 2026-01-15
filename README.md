@@ -32,9 +32,10 @@ Business Problem
 Call centers handle a high volume of customer interactions daily, but without proper analytics, it becomes difficult to:
 Track agent productivity
 Identify peak call times
-
-5. screenshot 
-https://github.com/sanketpatil2559/Sanket-Dashboard-1/blob/main/sanket%20dash.png 
 Measure customer satisfaction
 Improve resolution efficiency
 Manual reporting makes it harder to respond quickly to operational challenges.
+
+
+5. screenshot 
+https://github.com/sanketpatil2559/Sanket-Dashboard-1/blob/main/sanket%20dash.png 
